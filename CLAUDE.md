@@ -26,6 +26,7 @@ Folders are numbered in the order the course teaches them, and each builds on th
 - `09_advance_one`: promises, async/await, fetch, XHR API requests
 - `10_classes_and_oop`: object literals, prototypes, `call`/`bind`, classes, inheritance, static props, getters/setters (`notes.md` has written notes)
 - `11_fun_with_js`: closures
+- `12_js_internals/js_masterclass.html`: single self-contained interactive page (open in a browser) covering engine internals, call stack, memory/GC, coercion, prototypes, event loop, DOM, Node vs browser, edge cases and V8 C++ source; it references the earlier lesson files and its simulators are plain JS at the bottom of the file
 
 ## Conventions
 
